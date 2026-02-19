@@ -4,7 +4,7 @@ description: A skill for compiling what power wants hidden into undeniable recor
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.3852
+  version: 1.0.3853
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - documentation-as-resistance
